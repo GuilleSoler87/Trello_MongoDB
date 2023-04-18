@@ -24,6 +24,21 @@ El objetivo de este proyecto es que los estudiantes exploren las característica
 - Utiliza la función de comentarios de Trello para comunicarte con tu compañero/a acerca del progreso y cualquier problema o duda que surja durante el proyecto.
 <img src="./assets/trello4.jpg" alt="Comentarios" style="width: 50%;">
 
+# Hacer un seguimiento del progreso:
+
+- Utiliza la función de checklists en las tarjetas para dividir las tareas en subtareas más pequeñas y asegurarte de que todo esté completo antes de marcar la tarjeta como terminada.
+<img src="./assets/trello5.jpg" alt="Checklist" style="width: 50%;">
+
+- Utiliza la función de etiquetas para categorizar las tarjetas por tema o importancia.
+- Haz un seguimiento del progreso del proyecto a medida que se avanza, moviendo las tarjetas entre las listas a medida que se completan las diferentes etapas.
+![Categorias y seguimiento](./assets/trello6.jpg)
+
+# Finalizar el proyecto:
+
+- Cuando se hayan completado todas las tareas, revisa el proyecto en su conjunto para asegurarte de que todo está completo y que no hay tareas pendientes. Asegúrate de que la presentación final se haya completado antes de marcar el proyecto como terminado.
+![Categorias y seguimiento](./assets/trello7.jpg)
+
+
 
 
 
