@@ -18,10 +18,11 @@ El objetivo de este proyecto es que los estudiantes exploren las característica
 # Repartir el trabajo:
 
 - Asigna las tarjetas a cada uno de los miembros del equipo para que se encarguen de las tareas específicas que se han creado.
+
 ![Tareas](./assets/trello3.jpg)
 
 - Utiliza la función de comentarios de Trello para comunicarte con tu compañero/a acerca del progreso y cualquier problema o duda que surja durante el proyecto.
-![Comentarios](./assets/trello4.jpg)
+![Comentarios](./assets/trello4.jpg){ width=50% }
 
 
 
