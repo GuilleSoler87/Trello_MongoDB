@@ -44,6 +44,7 @@ El objetivo de este proyecto es que los estudiantes exploren las característica
 ## 1.Parte 2. Investigación
 
 En parejas, los estudiantes deberán realizar una investigación teórica sobre MongoDB, enfocándose en los siguientes aspectos:
+![Mongo](./assets/MongoDB-logo.png)
 
 # ¿Qué es MongoDB?
 
@@ -115,23 +116,22 @@ Si bien MongoDB ofrece varias ventajas, también tiene algunas desventajas y sit
 
 La instalación y configuración de MongoDB varían según el sistema operativo utilizado. A continuación, se describen los requisitos mínimos de hardware y software para la instalación de MongoDB:
 
-Requisitos de hardware:
-
+- Requisitos de hardware:
 Procesador de 64 bits.
 Al menos 2 GB de RAM.
 Espacio de disco duro disponible para los datos y los registros de MongoDB.
 Requisitos de software:
 
-Sistema operativo compatible, como Windows, macOS o Linux.
+- Sistema operativo compatible, como Windows, macOS o Linux.
 MongoDB Community Server, que es una distribución gratuita y de código abierto de MongoDB.
 MongoDB Compass, que es una interfaz gráfica de usuario opcional para MongoDB.
 Para instalar MongoDB, puede seguir los siguientes pasos generales:
 
-Descargar la última versión de MongoDB Community Server desde el sitio web oficial de MongoDB.
-Instalar MongoDB en su sistema operativo siguiendo las instrucciones específicas para su sistema operativo.
-Configurar el archivo de configuración de MongoDB para especificar la ubicación de los datos y los registros de MongoDB.
-Iniciar el servicio de MongoDB en el sistema operativo para comenzar a utilizar MongoDB.
-Es importante seguir cuidadosamente las instrucciones específicas para su sistema operativo y su versión de MongoDB para asegurarse de que MongoDB se instale y configure correctamente.
+- Descargar la última versión de MongoDB Community Server desde el sitio web oficial de MongoDB.
+- Instalar MongoDB en su sistema operativo siguiendo las instrucciones específicas para su sistema operativo.
+- Configurar el archivo de configuración de MongoDB para especificar la ubicación de los datos y los registros de MongoDB.
+- Iniciar el servicio de MongoDB en el sistema operativo para comenzar a utilizar MongoDB.
+- Es importante seguir cuidadosamente las instrucciones específicas para su sistema operativo y su versión de MongoDB para asegurarse de que - - MongoDB se instale y configure correctamente.
 
 Además, puede configurar MongoDB para ajustar su rendimiento y su seguridad, como la autenticación y el cifrado. Se recomienda que revise la documentación oficial de MongoDB para obtener más detalles sobre cómo configurar MongoDB según sus necesidades específicas.
 
